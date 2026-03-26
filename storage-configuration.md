@@ -1,5 +1,8 @@
 # Storage Configuration Runbook
 
+Author: Emmanuel Naweji
+Role: PhD Candidate at National University; Infrastructure, Cloud, AI, and DevOps Engineer; Mentor
+
 ## Purpose
 
 Use this runbook to configure storage networking and validate storage readiness for a new OpenShift cluster through a GitOps-driven workflow.

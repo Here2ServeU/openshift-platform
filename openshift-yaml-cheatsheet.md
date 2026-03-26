@@ -1,5 +1,8 @@
 # OpenShift YAML Cheatsheet
 
+Author: Emmanuel Naweji
+Role: PhD Candidate at National University; Infrastructure, Cloud, AI, and DevOps Engineer; Mentor
+
 ## Purpose
 
 This cheatsheet helps OpenShift engineers write, read, and validate YAML files used for platform operations, GitOps workflows, application delivery, storage validation, and day-two cluster changes.

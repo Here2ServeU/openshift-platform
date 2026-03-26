@@ -1,5 +1,8 @@
 # Red Hat Training Access Runbook
 
+Author: Emmanuel Naweji
+Role: PhD Candidate at National University; Infrastructure, Cloud, AI, and DevOps Engineer; Mentor
+
 ## Purpose
 
 Use this runbook to request access to the Red Hat Partner Training Portal and associated OpenShift courses through the approved partner support process.

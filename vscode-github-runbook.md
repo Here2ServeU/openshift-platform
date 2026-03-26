@@ -1,5 +1,8 @@
 # VS Code And GitHub Setup Runbook
 
+Author: Emmanuel Naweji
+Role: PhD Candidate at National University; Infrastructure, Cloud, AI, and DevOps Engineer; Mentor
+
 ## Purpose
 
 Use this runbook to install Visual Studio Code on macOS or Windows and configure it to work with GitHub for OpenShift platform engineering tasks.

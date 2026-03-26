@@ -110,3 +110,12 @@ If you are new to this repository, read in this order:
 - Review placeholders and versions regularly.
 - Refresh OpenShift examples when cluster APIs or workflows change.
 - Keep troubleshooting sections based on real incidents, not generic filler.
+
+## Author
+
+Emmanuel Naweji is a PhD Candidate at National University and works across infrastructure, cloud, AI, and DevOps engineering. He also serves as a mentor.
+
+## License
+
+This repository is licensed under the MIT License. See [LICENSE](./LICENSE).
+

@@ -1,5 +1,8 @@
 # Git Command Cheatsheet For OpenShift And VS Code
 
+Author: Emmanuel Naweji
+Role: PhD Candidate at National University; Infrastructure, Cloud, AI, and DevOps Engineer; Mentor
+
 ## Purpose
 
 This cheatsheet focuses on the Git commands OpenShift engineers use most often when working with cluster configuration, GitOps repositories, and VS Code.

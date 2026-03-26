@@ -1,5 +1,8 @@
 # OpenShift GitOps Cluster Platform Runbook
 
+Author: Emmanuel Naweji
+Role: PhD Candidate at National University; Infrastructure, Cloud, AI, and DevOps Engineer; Mentor
+
 ## Purpose
 
 Use this runbook to deploy or update an OpenShift cluster installation workflow managed through GitOps, Helm, and Advanced Cluster Management (ACM).

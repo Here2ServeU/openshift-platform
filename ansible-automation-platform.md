@@ -1,5 +1,8 @@
 # Ansible Automation Platform Runbook
 
+Author: Emmanuel Naweji
+Role: PhD Candidate at National University; Infrastructure, Cloud, AI, and DevOps Engineer; Mentor
+
 ## Purpose
 
 Use this runbook to launch an OpenShift cluster installation workflow from Ansible Automation Platform (AAP) using sanitized inputs and operational best practices.
